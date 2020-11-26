@@ -3,7 +3,7 @@
 #   Author: Jose Maria Zaragoza.
 #   January 2020 - Script Creation.
 #   Version = 0.1
-#   Feel free tu use, reproduce and abuse.
+#   Feel free to use, reproduce and abuse.
 
 
 import re
